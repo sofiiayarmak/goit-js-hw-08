@@ -94,7 +94,7 @@ function onGalleryClick(event) {
 
   const instance = basicLightbox.create(
     `
-    <img src="${image.dataset.source}" width="1128">
+    <img src="${image.dataset.source}" width="1112">
   `,
     {
       onShow: instance => {
